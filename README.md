@@ -1,0 +1,1 @@
+# minimal-reproduction-xsd-validation-error-without-elementname
